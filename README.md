@@ -1,5 +1,4 @@
 # Anycubic-upgrade
-Anycubic-upgrade
 
 ![Image of Anycubic by Mario](https://github.com/mario73z/Anycubic-upgrade/blob/main/INNE/anycubic-by-mario.jpg)
 
